@@ -23,3 +23,4 @@
 22. https://gist.github.com/bradtraversy/cd90d1ed3c462fe3bddd11bf8953a896  (Node-Js Deployment)
 23. https://core.ac.uk/  (Research Papers)
 24. Coolors.co  (Color Selector)
+25. https://search.muz.li/  (Design Inspiration)
